@@ -13,6 +13,9 @@
   border-radius: 10px;
   overflow-y: hidden;
 }
+.bg-img{
+  overflow: hidden;
+}
 .transparent{
   background-color: #f5fffa;
 }
@@ -81,7 +84,6 @@ font-size: 1.5em;
   }
   .post-img{
     height:300px;
-    width:250px;
   }
   .bold-intro{
     font-size: 2em;
