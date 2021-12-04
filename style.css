@@ -1,0 +1,89 @@
+.nav-link{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.home-text{
+  margin: 0 30px 0 0;
+}
+.bold-header{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size:2.5em;
+  font-weight: bolder;
+}
+.b-img{
+  border-radius: 10px;
+  overflow-y: hidden;
+}
+.transparent{
+  background-color: #f5fffa;
+}
+h4{
+  font-size: 1em;
+}
+h1{
+  font-weight: 900;
+  font-size: 3em;
+}
+span{
+  font-weight: bolder;
+}
+div > .side{
+  border-radius: 10px;
+}
+.side-margin{
+  margin: 0 auto;
+}
+.bold-intro{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 3em;
+  font-weight: bolder;
+}
+.img{
+  width: 45px;
+  height: 45px;
+}
+.boldtext{
+  font-weight: bolder;
+}
+.program-title{
+  font-weight: 600;
+}
+.font{
+  font-weight: bold;
+  font-size: 2em;
+}
+.bg-color{
+  background-color: mediumaquamarine;
+}
+.text-color{
+color: mediumaquamarine;
+font-weight: 400;
+font-size: 1.5em;
+}
+.b-radius{
+  border-radius: 12px;
+}
+.btn-border{
+  border:none;
+  border-radius: 5px;
+  padding: 10px;
+}
+@media only screen and (max-width: 768px) {
+ 
+  .bold-header{
+    font-size: 2em;
+    margin-top: 30px;
+  }
+  .home-text{
+    text-align: center;
+  }
+  .h-img{
+    height:300px;
+  }
+  .post-img{
+    height:300px;
+    width:250px;
+  }
+  .bold-intro{
+    font-size: 2em;
+  }
+}
